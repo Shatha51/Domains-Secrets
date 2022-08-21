@@ -14,7 +14,11 @@ Watch it with urself (:
 
 ## Usage 
 `cd Domains-Secrets`
+
+
 `chmod 777 DomainsSecrets.sh`
+
+
 `bash DomainsSecrets.sh`
 
 
