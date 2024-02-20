@@ -23,6 +23,4 @@ Watch it with urself😃
 
 
 ## You have to follow me on :
-[YouTube](https://www.youtube.com/channel/UCy1VY5S4o7wqp4A2KmXF6Yw/featured)
-## Tool's guide :
-[Guide](https://youtu.be/OVIj5fQrbDo)
+[YouTube](https://www.youtube.com/@Shatha511)
